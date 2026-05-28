@@ -6,6 +6,7 @@
 - [Slime Rancher](https://drive.google.com/file/d/1XUa2RwuipOnZZGATdOJe38iRaVzhQ7M1/view?usp=sharing)
 - [Stardew Valley](https://drive.google.com/file/d/1CA0e7TVglYCT06CXQvtTHqpqyzKNn3y8/view?usp=sharing)
 - [Buckshot Roulette](https://drive.google.com/file/d/1Y0dFfkXRQx1TGc9alAemJQUubSnTHPAt/view?usp=sharing)
+- [The Binding of Isaac](https://drive.google.com/file/d/1bmfWJ48NBPV3T5agQt0uarsTHuU_nttt/view?usp=sharing)
 - [Hollow Knight Silksong]() em breve!
 
 ### Outros Softwares
