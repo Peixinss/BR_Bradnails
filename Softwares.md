@@ -5,6 +5,7 @@
 - [Papers.Please](https://drive.google.com/file/d/11XysuDvEzMx9JSmlxD2uSRMC6Pk10jiI/view?usp=sharing)
 - [60 Seconds](https://drive.google.com/file/d/1Q5PsqJShwCZ1GnJRRl3Bq45kLnVhjL3t/view?usp=sharing)
 - [Slime Rancher](https://drive.google.com/file/d/1XUa2RwuipOnZZGATdOJe38iRaVzhQ7M1/view?usp=sharing)
+- [Hollow Knight Silksong](https://drive.google.com/file/d/1Kq73NqprZjb4M8sFetZBSzk7P5rXnr4T/view?usp=sharing)
 
 ### Outros Softwares
 
