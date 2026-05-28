@@ -1,4 +1,4 @@
-### A maioria dos jogos estão compactados, então recomendo instalar algum descompactador para poder descompactar os arquivos
+##### A maioria dos jogos estão compactados, então recomendo instalar algum descompactador para poder descompactar os arquivos
 ### Jogos
 - [Terraria](https://drive.google.com/file/d/1jjGrgwTbDdAPzUxjtWq1XZHo4rO2UbAi/view?usp=sharing)
 - [Please, Don't Touch Anything 3D](https://drive.google.com/file/d/1ahZ1SBi_cz4PG5_SzEq5u--cCVnlIcJP/view?usp=drive_link)
