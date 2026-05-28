@@ -10,4 +10,4 @@
 ### Outros Softwares
 
 - [Psiphon (VPN)](https://drive.google.com/file/d/148QMk9I1YUrW4RoA6HZeSjpXtZm4AcmC/view?usp=sharing)
-- [rTorrent (teste)](https://drive.google.com/file/d/1WgjdBKAJ-lRQt9pfjpIle3fvgW6yQDP_/view?usp=sharing)
+
