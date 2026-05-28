@@ -3,7 +3,7 @@
 - [Terraria](https://drive.google.com/file/d/1jjGrgwTbDdAPzUxjtWq1XZHo4rO2UbAi/view?usp=sharing)
 - [Please, Don't Touch Anything 3D](https://drive.google.com/file/d/1ahZ1SBi_cz4PG5_SzEq5u--cCVnlIcJP/view?usp=drive_link)
 - [Papers.Please](https://drive.google.com/file/d/11XysuDvEzMx9JSmlxD2uSRMC6Pk10jiI/view?usp=sharing)
-- [60 Seconds](https://drive.google.com/drive/folders/11hRMijKZjp7_A6-OOzDctrzjx6fp_4gI?usp=sharing)
+- [60 Seconds](https://drive.google.com/file/d/1Q5PsqJShwCZ1GnJRRl3Bq45kLnVhjL3t/view?usp=sharing)
 - [Slime Rancher](https://drive.google.com/file/d/1XUa2RwuipOnZZGATdOJe38iRaVzhQ7M1/view?usp=sharing)
 
 ### Outros Softwares
