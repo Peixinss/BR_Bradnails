@@ -1,4 +1,4 @@
-##### A maioria dos jogos estão compactados, então recomendo instalar algum descompactador para poder descompactar os arquivos
+##### A maioria dos jogos estão compactados, então recomendo instalar algum descompactador(WINRAR) para poder descompactar os arquivos
 ### Jogos -
 - [CRUEL](https://drive.google.com/file/d/1u7YNx_7aI4su07i_Nj2bhvCToDpReZ7j/view?usp=sharing)
 - [Papers Please](https://drive.google.com/file/d/11XysuDvEzMx9JSmlxD2uSRMC6Pk10jiI/view?usp=sharing)
