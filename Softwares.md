@@ -9,6 +9,7 @@
 - [Human Fall Flat](https://drive.google.com/file/d/1o8tLiGq38-H2RtLLlsUCr62t3KbunKl5/view?usp=sharing)
 - [Hollow Knight Silksong]() em breve!
 - [SuperHot](https://drive.google.com/file/d/1zJYMLPAjPMfurjVbTxU819BPO8zQ3oqY/view?usp=sharing)
+- [Doki Doki Literature Club!](https://drive.google.com/file/d/1jwRbx7VY-6erdvlI1pKG_BagJJxUgik3/view?usp=drive_link)
 ### Outros Softwares -
 
 - [Psiphon (VPN)](https://drive.google.com/file/d/148QMk9I1YUrW4RoA6HZeSjpXtZm4AcmC/view?usp=sharing)
