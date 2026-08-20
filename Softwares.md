@@ -1,5 +1,6 @@
 ##### A maioria dos jogos estão compactados, então recomendo instalar algum descompactador(WINRAR) para poder descompactar os arquivos
 ### Jogos -
+-[Hytale](https://drive.google.com/file/d/1moOpmXWdh3NlXrwDgHfyet3woZMv-HEC/view?usp=drivesdk)
 - [PROJECT ZOMBOID](https://drive.google.com/file/d/1WGbmgtDtkQX-3fRQ1SS76EdvyMBQjQNK/view?usp=drivesdk)
 - [LEFT 4 DEAD](https://drive.google.com/file/d/1X1WQWniN_EqcG3Jv3nqvDj04gMPBM1Tp/view?usp=drivesdk)
 - [ULTRAKILL](https://drive.google.com/file/d/1zlzME1So90GXLOU27K3q9bgHBytMuteD/view?usp=sharing)
