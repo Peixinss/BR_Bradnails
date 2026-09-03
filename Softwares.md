@@ -1,6 +1,6 @@
 ##### A maioria dos jogos estão compactados, então recomendo instalar algum descompactador(WINRAR) para poder descompactar os arquivos
 ### Jogos -
-- [LEFT 4 DEAD](https://drive.google.com/file/d/1X1WQWniN_EqcG3Jv3nqvDj04gMPBM1Tp/view?usp=drivesdk) Não compativel com mods
+- [LEFT 4 DEAD](https://drive.google.com/file/d/1X1WQWniN_EqcG3Jv3nqvDj04gMPBM1Tp/view?usp=drivesdk) -Não compativel com mods
 - [ULTRAKILL](https://drive.google.com/file/d/1zlzME1So90GXLOU27K3q9bgHBytMuteD/view?usp=sharing)
 - [Katana Zero](https://drive.google.com/file/d/1L3HbF5E5Y6csUPF5S0VpoLfWgFOJV1qr/view?usp=sharing)
 - [CRUEL](https://drive.google.com/file/d/1u7YNx_7aI4su07i_Nj2bhvCToDpReZ7j/view?usp=sharing)
@@ -11,7 +11,7 @@
 - [Buckshot Roulette](https://drive.google.com/file/d/1Y0dFfkXRQx1TGc9alAemJQUubSnTHPAt/view?usp=sharing)
 - [The Binding of Isaac](https://drive.google.com/file/d/1bmfWJ48NBPV3T5agQt0uarsTHuU_nttt/view?usp=sharing)
 - [Human Fall Flat](https://drive.google.com/file/d/1o8tLiGq38-H2RtLLlsUCr62t3KbunKl5/view?usp=sharing)
-- [Hollow Knight Silksong]() em breve!
+- [Hollow Knight Silksong](https://drive.google.com/file/d/1u1WCn_CwoiMo6hIUrlxNmQokw7sJ_QRU/view?usp=sharing)
 - [SuperHot](https://drive.google.com/file/d/1zJYMLPAjPMfurjVbTxU819BPO8zQ3oqY/view?usp=sharing)
 - [Doki Doki Literature Club!](https://drive.google.com/file/d/1jwRbx7VY-6erdvlI1pKG_BagJJxUgik3/view?usp=drive_link)
 - [Geometry Dash](https://drive.google.com/file/d/112-L6jxI0uFmphZIzCuyrypuwuXQDMMX/view?usp=drive_link)
