@@ -16,6 +16,8 @@
 - [Doki Doki Literature Club!](https://drive.google.com/file/d/1jwRbx7VY-6erdvlI1pKG_BagJJxUgik3/view?usp=drive_link)
 - [Geometry Dash](https://drive.google.com/file/d/112-L6jxI0uFmphZIzCuyrypuwuXQDMMX/view?usp=drive_link)
 - [Super Smash Bros Crusade](https://drive.google.com/file/d/1SmFRC4Lpa9353LBIU8PCfvJeloAPeAZ5/view?usp=sharing)
+- [How To Fish](https://drive.google.com/file/d/1wJYxvTfuUITWNS_Y9cTciIdj3-qaql_Y/view?usp=drivesdk)
+
 ### Outros Softwares -
 
 - [Psiphon (VPN)](https://drive.google.com/file/d/148QMk9I1YUrW4RoA6HZeSjpXtZm4AcmC/view?usp=sharing)
