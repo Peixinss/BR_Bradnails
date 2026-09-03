@@ -1,5 +1,5 @@
 ##### A maioria dos jogos estão compactados, então recomendo instalar algum descompactador(WINRAR) para poder descompactar os arquivos
-### Jogos -
+## Jogos -
 - [LEFT 4 DEAD](https://drive.google.com/file/d/1X1WQWniN_EqcG3Jv3nqvDj04gMPBM1Tp/view?usp=drivesdk) -Não compativel com mods
 - [ULTRAKILL](https://drive.google.com/file/d/1zlzME1So90GXLOU27K3q9bgHBytMuteD/view?usp=sharing)
 - [Katana Zero](https://drive.google.com/file/d/1L3HbF5E5Y6csUPF5S0VpoLfWgFOJV1qr/view?usp=sharing)
@@ -18,7 +18,10 @@
 - [Super Smash Bros Crusade](https://drive.google.com/file/d/1SmFRC4Lpa9353LBIU8PCfvJeloAPeAZ5/view?usp=sharing)
 - [Raft](https://drive.google.com/file/d/1hn5knW4-hS6khswRTjQ15johTOK7nt9f/view?usp=sharing)
 - [Balatro](https://drive.google.com/file/d/18Y6XKxfdPL5Hk874Hlev6hp_fLN4qhiz/view?usp=sharing)
+- [No, I'm not a Human](https://drive.google.com/file/d/1vs4g_Q8Ex7P6SEU1p-YHA6i-FcIQRJY2/view?usp=sharing)
+- [TCG Card Shop Simulator](https://drive.google.com/file/d/1dmw4qvOeu31gWtQX2XcDjdF12NrNYa2H/view?usp=sharing)
 
+  
 ### Outros Softwares -
 
 - [Psiphon (VPN)](https://drive.google.com/file/d/148QMk9I1YUrW4RoA6HZeSjpXtZm4AcmC/view?usp=sharing)
