@@ -1,6 +1,6 @@
 ##### A maioria dos jogos estão compactados, então recomendo instalar algum descompactador(WINRAR) para poder descompactar os arquivos
 ### Jogos -
-- [LEFT 4 DEAD](https://drive.google.com/file/d/1X1WQWniN_EqcG3Jv3nqvDj04gMPBM1Tp/view?usp=drivesdk)Não compativel com mods
+- [LEFT 4 DEAD](https://drive.google.com/file/d/1X1WQWniN_EqcG3Jv3nqvDj04gMPBM1Tp/view?usp=drivesdk) Não compativel com mods
 - [ULTRAKILL](https://drive.google.com/file/d/1zlzME1So90GXLOU27K3q9bgHBytMuteD/view?usp=sharing)
 - [Katana Zero](https://drive.google.com/file/d/1L3HbF5E5Y6csUPF5S0VpoLfWgFOJV1qr/view?usp=sharing)
 - [CRUEL](https://drive.google.com/file/d/1u7YNx_7aI4su07i_Nj2bhvCToDpReZ7j/view?usp=sharing)
@@ -16,7 +16,8 @@
 - [Doki Doki Literature Club!](https://drive.google.com/file/d/1jwRbx7VY-6erdvlI1pKG_BagJJxUgik3/view?usp=drive_link)
 - [Geometry Dash](https://drive.google.com/file/d/112-L6jxI0uFmphZIzCuyrypuwuXQDMMX/view?usp=drive_link)
 - [Super Smash Bros Crusade](https://drive.google.com/file/d/1SmFRC4Lpa9353LBIU8PCfvJeloAPeAZ5/view?usp=sharing)
-- [How To Fish](https://drive.google.com/file/d/1wJYxvTfuUITWNS_Y9cTciIdj3-qaql_Y/view?usp=drivesdk)
+- [Raft](https://drive.google.com/file/d/1hn5knW4-hS6khswRTjQ15johTOK7nt9f/view?usp=sharing)
+- [Balatro](https://drive.google.com/file/d/18Y6XKxfdPL5Hk874Hlev6hp_fLN4qhiz/view?usp=sharing)
 
 ### Outros Softwares -
 
