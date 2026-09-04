@@ -1,4 +1,4 @@
-# 🎮 BR bradnails
+# 🇧🇷 BR bradnails
 
 > **Jogos, diversão e aprendizado para tornar a aula de informática menos entediante!**
 
