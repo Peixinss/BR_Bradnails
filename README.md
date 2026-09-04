@@ -2,6 +2,10 @@
 
 > **Jogos, diversão e aprendizado para tornar a aula de informática menos entediante!**
 
+<p align="center">
+  <img src="ChatGPT Image 3 de set. de 2026, 21_37_55.png" alt="Banner BR bradnails" width="100%">
+</p>
+
 ## 🧱 Sobre o projeto
 
 O **BR bradnails** é um projeto criado por estudantes do Ensino Médio com uma ideia simples: **tornar o tempo nos computadores da escola mais divertido**.
