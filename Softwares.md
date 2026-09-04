@@ -26,6 +26,7 @@
 - [Getting Over It with Bennett Foddy](https://drive.google.com/file/d/1sQgwF6w74jCWfITFGCxU-U2cSX5K2iB6/view?usp=sharing)
 - [Mouthwashing](https://drive.google.com/file/d/1yFaSLexFZkuBFo6pa9b8wkwSv0nOO_h8/view?usp=sharing)
 - [Another Crab's Treasure](https://drive.google.com/file/d/1TkXE9mRduDyzllFnN6jgzz34O86rWPI_/view?usp=sharing)
+- [Cult of the Lamb](https://drive.google.com/file/d/1m8QK4HYrSxtfE7fO1XiE2fjFJdT_8Bs6/view?usp=sharing)
   
 ### Outros Softwares -
 
