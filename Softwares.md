@@ -31,6 +31,7 @@
 - [I am Bread](https://drive.google.com/file/d/1wlaav2BtbuWuUZuB_Am4kJ-4-88lOKU5/view?usp=sharing)
 - [GTA San Andreas](https://drive.google.com/file/d/0B-zHnX0724mNTGI0V01zTVY3WFk/view?usp=drivesdk&resourcekey=0-Yi_GQnr2T2LkKYdYSen9tQ)
 - [Hotline Miami](https://drive.google.com/file/d/13eOr8cLeyQjsKrPI2Cnwqa6CQ4S5LhjY/view?usp=drivesdk)
+- [Counter-Strike](https://drive.google.com/file/d/1p8CGP9an01x3mpw_xeg8y9t2Pj0y1_hq/view?usp=sharing)
   
 ### Outros Softwares -
 
