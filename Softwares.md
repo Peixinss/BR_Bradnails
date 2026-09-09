@@ -35,7 +35,6 @@
 - [Sonic CD](https://drive.google.com/file/d/1UD8_OrHRZmI3V0c0eMRMBpFQBjABjNSm/view?usp=sharing)
 - [Slender man](https://drive.google.com/file/d/14G16Fluz3yTiZELqWwBHqS9OWdzHtK1X/view?usp=sharing)
 - [Quake 2](https://drive.google.com/file/d/12scYEjykNNbaGtcMWodi93KOd5RcL7l2/view?usp=sharing)
-- [Goat Simulator](https://drive.google.com/file/d/12edXbEAcM4YyTXh0idZwg03okPh3Tq6C/view?usp=drivesdk)
   
 ### Outros Softwares -
 
