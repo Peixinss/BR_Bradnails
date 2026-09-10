@@ -34,6 +34,9 @@
 - [Slender man](https://drive.google.com/file/d/14G16Fluz3yTiZELqWwBHqS9OWdzHtK1X/view?usp=sharing)
 - [VVVVVV](https://drive.google.com/file/d/0B-QJJrpqaROPel9LanZyYmtLSmM/view?usp=sharing&resourcekey=0--DDAIXdP_KtBfQI6dhP2lA)
 - [Clustertruck](https://drive.google.com/file/d/1zUOKrlkO3cWT6HELlpJbJr65fv-1iXWZ/view?usp=sharing)
+- [Plague Inc.](https://drive.google.com/file/d/1UuDgXK42Jtcf94bNOahwxgk00y8PCdi9/view?usp=sharing)
+- [The Long Drive](https://drive.google.com/file/d/12VO6Cf0MrjDmSN-INXsy4dIIW_lGL_IW/view?usp=sharing)
+- [A Difficult Game About Climbing](https://drive.google.com/file/d/1RDZn9XK1sINmIqF-BR1LdakfSIqhLC-C/view?usp=sharing)
   
 ### Outros Softwares -
 
