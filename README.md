@@ -5,7 +5,7 @@
 - [Jogos Aqui!](https://github.com/Peixinss/BR_Bradnails/blob/main/Softwares.md)
 
 <p align="center">
-  <img src="Foto de Pires.jpg" alt="Banner BR bradnails" width="100%">
+  <img src="arte dos fofinhos soca fofos.png" alt="Banner BR bradnails" width="100%">
 </p>
 
 ## 🧱 Sobre o projeto
