@@ -1,5 +1,7 @@
 ##### A maioria dos jogos estão compactados, então recomendo instalar algum descompactador(WINRAR) para poder descompactar os arquivos
 # Jogos -
+
+- [Minecraft Horizon Rust Java](https://drive.google.com/file/d/1PUO3rzKKT4_xuyECg9eg4O7eplxFJp_-/view?usp=drivesdk)
 - [Touhou 6: The Embodiment of Scarlet Devil](https://drive.google.com/file/d/1iOf6Y7c8SWCRJqpT0dEf_w3nPiqN1QJ6/view?usp=drivesdk)
 - [Call Of Duty Black Ops 1](https://drive.google.com/file/d/1x-YYMuRvBNB8tGrXmZEBxoppQAUiRSZ8/view?usp=drivesdk)
 - [LEFT 4 DEAD](https://drive.google.com/file/d/1X1WQWniN_EqcG3Jv3nqvDj04gMPBM1Tp/view?usp=drivesdk) -Não compativel com mods
